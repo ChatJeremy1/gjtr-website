@@ -1,0 +1,4 @@
+{
+  "functions": { "api/**/*": { "maxDuration": 10 } },
+  "analytics": { "enabled": true }
+}
